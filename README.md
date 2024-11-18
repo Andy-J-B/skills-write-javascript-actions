@@ -18,6 +18,7 @@ _Write your own GitHub JavaScript Action and automate customized tasks unique to
   <<< Author notes: Step 2 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
+
 -->
 
 ## Step 2: Configure Your Action
